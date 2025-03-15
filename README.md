@@ -13,10 +13,10 @@ The website consists of the following pages:
  **Live Demo:** [Basic HTML Website](https://mahendrakoppuravuri1.github.io/Basic_HTML_Website/)
 
 ##  Features  
-✔ **Semantic HTML** for better structure and accessibility  
-✔ **Multiple pages** with a working navigation bar  
-✔ **SEO-friendly meta tags** for better search engine ranking  
-✔ **Contact form** with Name, Email, and Message fields  
+ **Semantic HTML** for better structure and accessibility  
+ **Multiple pages** with a working navigation bar  
+ **SEO-friendly meta tags** for better search engine ranking  
+ **Contact form** with Name, Email, and Message fields  
 
 ##  How to Run the Project  
 1. Download or clone the repository.  
@@ -30,6 +30,6 @@ The website consists of the following pages:
 - Add **CSS** to style the website in future projects.  
 - Improve **form functionality** using JavaScript and backend integration.  
 
-## 📜 License  
+## License  
 This project is free to use and modify.  
 
